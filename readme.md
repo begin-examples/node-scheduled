@@ -1,4 +1,4 @@
-<img src="https://static.begin.app//readme-banner.png" width="561">
+<img src="https://static.begin.app/example-boilerplate/readme-banner.png" width="561">
 
 \$BADGE
 
