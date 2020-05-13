@@ -1,7 +1,7 @@
 {
   "name": "begin-app",
   "version": "0.0.0",
-  "description": "Begin basic TKTK app",
+  "description": "Begin scheduled functions example app",
   "scripts": {
     "lint": "eslint src --ignore-pattern node_modules --fix",
     "start": "cross-env NODE_ENV=testing npx sandbox",
