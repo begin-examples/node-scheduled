@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "backup scheduled event",
   "dependencies": {
-    "@begin/data": "^1.2.2"
+    "@begin/data": "latest"
   }
 }
