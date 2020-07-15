@@ -15,6 +15,6 @@ exports.handler = async function scheduled (event) {
       'Count: ', count, '\n'
     )
   }
-  // Now save a copy wherever you like. S3 etc.
+  // Now back-up your data to wherever you like. For example a private S3 bucket etc.
   return
 }
