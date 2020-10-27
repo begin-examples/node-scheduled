@@ -2,10 +2,10 @@ let data = require('@begin/data')
 let HTML = require('@architect/views/doc')
 
 exports.handler = async function http (req) {
-  let { path } = req
+  let { rawPath } = req
   let visits
 
-  if (path === '/') {
+  if (rawPath === '/') {
     let result = await data.incr({
       table: 'my-data',
       key: 'site',
@@ -14,7 +14,6 @@ exports.handler = async function http (req) {
     visits = result.visits
     console.log('Stored a visit')
   }
-
 
   return {
     statusCode: 200,
