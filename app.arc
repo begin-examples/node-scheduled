@@ -1,5 +1,5 @@
 @app
-begin-app
+scheduled-app
 
 @http
 get /
