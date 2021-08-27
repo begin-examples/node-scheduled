@@ -1,3 +1,6 @@
 .arc-env
 .DS_Store
 node_modules
+sam.yaml
+sam.json
+static.json
