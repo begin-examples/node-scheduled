@@ -14,7 +14,7 @@
     "@architect/sandbox": "^4.0.1",
     "@begin/data": "^3.0.0",
     "cross-env": "^7.0.2",
-    "tap-spec": "^2.2.2",
+    "tap-spec": "^5.0.0",
     "tape": "^5.0.1",
     "tiny-json-http": "^7.3.0"
   }
