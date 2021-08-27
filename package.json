@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@architect/sandbox": "^3.0.0",
-    "@begin/data": "^1.2.3",
+    "@begin/data": "^3.0.0",
     "cross-env": "^7.0.2",
     "tap-spec": "^2.2.2",
     "tape": "^5.0.1",
