@@ -1,7 +1,5 @@
 <img src="https://static.begin.app/node-scheduled/readme-banner.png" width="751">
 
-$BADGE
-
 ## Deploy your own
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/begin-examples/node-scheduled)
